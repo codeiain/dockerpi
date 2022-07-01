@@ -3,7 +3,7 @@
 </div>
 
 # dockerpi
-
+[![Docker CI](https://github.com/codeiain/dockerpi/actions/workflows/ci.yml/badge.svg)](https://github.com/codeiain/dockerpi/actions/workflows/ci.yml)
 [![Actions Status](https://badgen.net/github/checks/lukechilds/dockerpi?icon=github&label=Build%20Status)](https://github.com/lukechilds/dockerpi/actions)
 [![Docker Pulls](https://badgen.net/docker/pulls/lukechilds/dockerpi?icon=docker&label=Docker%20pulls)](https://hub.docker.com/r/lukechilds/dockerpi/)
 [![Docker Image Size](https://badgen.net/docker/size/lukechilds/dockerpi/latest/amd64?icon=docker&label=lukechilds/dockerpi)](https://hub.docker.com/r/lukechilds/dockerpi/tags)
